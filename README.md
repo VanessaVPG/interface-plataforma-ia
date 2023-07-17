@@ -1,34 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Desafio Bora Codar - Projeto
 
-## Getting Started
+Este é um projeto criado para o desafio do Bora Codar com base no [design do Figma](https://www.figma.com/community/file/1260950780300628490).
 
-First, run the development server:
+## Tecnologia Utilizada
+
+- Next.js
+- Tailwind CSS
+- TypeScript
+
+## Sobre o Projeto
+
+O objetivo deste desafio é criar uma interface web com base no design fornecido no Figma. Utilizei o Next.js como framework de desenvolvimento React, que facilita a criação de aplicativos web rápidos e eficientes. Utilizei também o Tailwind CSS, que é uma biblioteca de utilitários CSS que nos permite estilizar componentes de forma rápida e consistente.
+
+## Como Executar o Projeto
+
+1. Clone o repositório para sua máquina local:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+git clone https://github.com/seu-usuario/interface-plataforma-ia.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Navegue para o diretório do projeto:
+```
+cd interface-plataforma-ia
+```
+3. Instale as dependências:
+```
+   npm install
+    ou
+   yarn install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+4. Inicie o servidor de desenvolvimento:
+```
+  npm run dev
+  ou
+  yarn dev
+```
+Dessa forma o projeto estará disponível em `http://localhost:3000`
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
