@@ -1,4 +1,4 @@
-# Desafio Bora Codar - Projeto
+# Desafio Bora Codar - Rocketseat
 
 Este é um projeto criado para o desafio do Bora Codar com base no [design do Figma](https://www.figma.com/community/file/1260950780300628490).
 
